@@ -1,0 +1,5 @@
+spring:
+  #«–√Ê∆Ù”√
+  aop:
+    proxy-target-class: true
+    auto: true
